@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{cite}
+
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+            
+        \Huge
+        \textbf{Calistenia}
+            
+        \vspace{0.5cm}
+        \LARGE
+        instrucciones y cartas
+            
+        \vspace{1.5cm}
+            
+        \textbf{Juan Pablo Davila Bedoya}
+            
+        \vfill
+            
+        \vspace{0.8cm}
+            
+        \Large
+        Despartamento de Ingeniería Electrónica y Telecomunicaciones\\
+        Universidad de Antioquia\\
+        Medellín\\
+        Marzo de 2021
+            
+    \end{center}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+\section{Sección de pasos}\label{intro}
+NOTA: éste ejercicio debe realizarse con una sola mano
+1.	Colocar una tarjeta encima de la otra en la misma orientación     encima de una hoja de papel, la tarjeta que quedo en la parte     inferior será nombrada como la tarjeta “a” y la otra tarjeta      será nombrada como tarjeta “b”.
+
+2.	Usando el dedo pulgar y el dedo del medio coja dos extremos no     diagonales de ambas tarjetas, esos estrenos tendrán que ser       los más lejanos a usted y levántelas.
+
+3.	Use el dedo anular de la mano en la que tiene las tarjetas        para posarlo sobre la parte más cercana de las tarjetas, y        luego use ese dedo para generar una fuerza a las tarjetas y       pare de ejercer la fuerza cuando las tarjetas estén en una        orientación perpendicular a la superficie de la hoja.
+
+4.	Apoye las tarjetas sobre la hoja sin alterar la orientación       que ya tiene. 
+
+5.	Apoye el dedo índice sobre la parte superior de las tarjetas.
+
+6.	Coloque su dedo anular sobre la parte lateral mas cercana de      ambas tarjetas.
+
+7.	La parte inferior de la tarjeta “a” que está apoyada sobre la     hoja deberá mantenerse en la posición en la que está, proceda     a separar ambas tarjetas con el dedo anular recordando lo         anterior descrito.
+
+8.	Suelte las tarjetas cuando las esquinas de las tarjetas formen     un triángulo equilátero y este triángulo este en equilibrio.
+
+\section{link de videos} \label{contenido}
+https://www.youtube.com/watch?v=jAxeHNkBgiU
+
+
+
+
+\end{document}
